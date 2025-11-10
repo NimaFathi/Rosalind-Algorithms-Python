@@ -1,14 +1,29 @@
-# Bioinformatics
-[Solving Rosalind text book problems. ](http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track)
-<img src="http://rosalind.info/static/img/logo.png?v=1560257990"  width=200 align="right">
-> **ROSALIND** is a platform for learning bioinformatics and programming through problem solving.
+# Rosalind Bioinformatics Algorithms — Python Solutions
 
+Python implementations of selected problems from the *Rosalind: Bioinformatics Algorithms* textbook/track, organized by chapter with links back to problem statements. Each solution favors clarity and correctness over micro-optimizations, making this repo a practical study companion and reference.
+
+> Rosalind is a platform for learning bioinformatics and programming through problem solving. See the original problems at rosalind.info.
+
+## What’s inside
+
+- ✅ Curated solutions across multiple chapters (strings, graphs, DP, HMMs, phylogeny, clustering)
+- 🔗 Direct links to each official problem statement
+- 🧭 Consistent file naming so you can jump to any task quickly
+- 🧪 Simple I/O patterns so you can paste sample inputs from Rosalind and run locally
+
+## Quick start
+
+```bash
+# Python 3.9+ recommended
+git clone https://github.com/NimaFathi/rosalind-bioinformatics-algorithms-solutions-py.git
+cd rosalind-bioinformatics-algorithms-solutions-py
+
+# Run an individual problem (examples below)
+python BookProblems/BA1D_find_all_occurrences.py < input.txt
+```
 
 **[rosalind account](http://rosalind.info/users/96106741/)** 
 
-**[Linkedin](https://www.linkedin.com/in/nimafathi/)**
-
-  I've solved many of rosalind text book problems in python. you can see navigation to each problems down here.
 ***
 ## problems & solutions
 ### Chapter 1
